@@ -1,0 +1,35 @@
+{
+  "name": "equinox",
+  "version": "1.0.0",
+  "description": "A package to change magichome lights based off a schedule",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crinfarr/equinox.git"
+  },
+  "keywords": [
+    "schedule",
+    "smarthome",
+    "smartlight",
+    "magichome",
+    "magic-home"
+  ],
+  "author": "Crinfarr",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/crinfarr/equinox/issues"
+  },
+  "homepage": "https://github.com/crinfarr/equinox#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "fs": "0.0.1-security",
+    "magic-home": "^2.6.1",
+    "magic-hue-controller": "^1.0.1"
+  },
+  "devDependencies": {
+    "@types/node": "^14.14.16"
+  }
+}
