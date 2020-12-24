@@ -27,7 +27,8 @@
     "discord.js": "^12.5.1",
     "fs": "0.0.1-security",
     "magic-home": "^2.6.1",
-    "magic-hue-controller": "^1.0.1"
+    "magic-hue-controller": "^1.0.1",
+    "three.js": "^0.77.1"
   },
   "devDependencies": {
     "@types/node": "^14.14.16"
