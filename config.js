@@ -21,10 +21,11 @@ var lights = [
         "value": "VRAN"
     }
 ]
-//TODO: convert COMMAND into a constructed object
+
 module.exports = {
     debug: true,
     setup: false,
+    fastmode: true,
     token: "NzkxMDI4MzkwNTM0MzE2MDYz.X-JMmA.kKSZGRJBld55iqCcTp8flhzTCF4",
     commanddata: [
         /*         {
