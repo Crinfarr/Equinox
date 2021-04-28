@@ -2,31 +2,43 @@
     {
         "address": "192.168.1.152",
         "id": "B4E842130B14",
-        "model": "AK001-ZJ2145"
+        "model": "AK001-ZJ2145",
+        "name": "SKY",
+        "title": "Skyline LEDs"
     },
     {
         "address": "192.168.1.195",
         "id": "50029132030F",
-        "model": "AK001-ZJ2101"
+        "model": "AK001-ZJ2101",
+        "name": "VRAN",
+        "title": "VR Area North"
     },
     {
         "address": "192.168.1.111",
         "id": "50029130D18B",
-        "model": "AK001-ZJ2101"
+        "model": "AK001-ZJ2101",
+        "name": "VRAE",
+        "title": "VR Area East"
     },
     {
         "address": "192.168.1.104",
         "id": "50029131F2E4",
-        "model": "AK001-ZJ2101"
+        "model": "AK001-ZJ2101",
+        "name": "VRAS",
+        "title": "VR Area South"
     },
     {
         "address": "192.168.1.173",
         "id": "500291306201",
-        "model": "AK001-ZJ2101"
+        "model": "AK001-ZJ2101",
+        "name": "BED",
+        "title": "Bed Light"
     },
     {
         "address": "192.168.1.188",
         "id": "50029130D510",
-        "model": "AK001-ZJ2101"
+        "model": "AK001-ZJ2101",
+        "name": "DESK",
+        "title": "Desk Light"
     }
 ]
